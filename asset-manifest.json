@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/react-week-1-project/static/js/main.df96370d.chunk.js",
+    "main.js.map": "/react-week-1-project/static/js/main.df96370d.chunk.js.map",
+    "runtime-main.js": "/react-week-1-project/static/js/runtime-main.9dadbc24.js",
+    "runtime-main.js.map": "/react-week-1-project/static/js/runtime-main.9dadbc24.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/react-week-1-project/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a6a2ffc4.chunk.js": "/react-week-1-project/static/js/2.a6a2ffc4.chunk.js",
+    "static/js/2.a6a2ffc4.chunk.js.map": "/react-week-1-project/static/js/2.a6a2ffc4.chunk.js.map",
+    "index.html": "/react-week-1-project/index.html",
+    "precache-manifest.6f2e70b387ea4f7115efd14406e972f4.js": "/react-week-1-project/precache-manifest.6f2e70b387ea4f7115efd14406e972f4.js",
+    "service-worker.js": "/react-week-1-project/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/react-week-1-project/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.a6a2ffc4.chunk.js.LICENSE.txt": "/react-week-1-project/static/js/2.a6a2ffc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dadbc24.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a6a2ffc4.chunk.js",
+    "static/js/main.df96370d.chunk.js"
+  ]
+}
